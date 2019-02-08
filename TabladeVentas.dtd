@@ -1,0 +1,101 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT TabladeVentas (FacturaN01,FacturaN02,FacturaN03,FacturaN04,
+                         FacturaN05,FacturaN06,FacturaN07,FacturaN08,
+                         FacturaN09,FacturaN10,FacturaN11,FacturaN12,
+                         FacturaN13,FacturaN14,FacturaN15,FacturaN16,
+                         FacturaN17,FacturaN18,FacturaN19,FacturaN20)>
+<!ATTLIST TabladeVentas
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN01 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN01
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN02 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN02
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN03 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN03
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN04 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN04
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN05 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN05
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN06 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN06
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN07 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN07
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN08 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN08
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN09 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN09
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN10 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN10
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN11 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN11
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN12 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN12
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN13 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN13
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN14 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN14
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN15 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN15
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN16 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN16
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN17 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN17
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN18 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN18
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN19 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN19
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT FacturaN20 (Fecha,Codigodevendedor,TotalUS)>
+<!ATTLIST FacturaN20
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Fecha (#PCDATA)>
+<!ATTLIST Fecha
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Codigodevendedor (#PCDATA)>
+<!ATTLIST Codigodevendedor
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT TotalUS (#PCDATA)>
+<!ATTLIST TotalUS
+  xmlns CDATA #FIXED ''>

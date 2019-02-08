@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- tabla de ventas sacada de la pagina: ftp://ftp.puce.edu.ec/Facultades/Administracion/Informatica%20Aplicada%20EM/BASES%20DE%20DATOS/TABLAS%20DE%20VENTAS.xls modificada a formato .txt y ampliada hasta la factura n20 y Valor en  US$ sustituido por Total-->
+<TabladeVentas>
+
+   <FacturaN01>
+      <Fecha>37144</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>1274,55</TotalUS>
+   </FacturaN01>
+   
+   <FacturaN02>
+      <Fecha>37147</Fecha>
+      <Codigodevendedor>2</Codigodevendedor>
+      <TotalUS>1827</TotalUS>
+   </FacturaN02>
+
+   <FacturaN03>
+      <Fecha>37154</Fecha>
+      <Codigodevendedor>3</Codigodevendedor>
+      <TotalUS>6750</TotalUS>
+   </FacturaN03>
+   
+   <FacturaN04>
+      <Fecha>37158</Fecha>
+      <Codigodevendedor>2</Codigodevendedor>
+      <TotalUS>920,75</TotalUS>
+   </FacturaN04>
+
+   <FacturaN05>
+      <Fecha>37161</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>1789,3</TotalUS>
+   </FacturaN05>
+   
+   <FacturaN06>
+      <Fecha>37165</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>4321</TotalUS>
+   </FacturaN06>
+
+   <FacturaN07>
+      <Fecha>37167</Fecha>
+      <Codigodevendedor>5</Codigodevendedor>
+      <TotalUS>1754,5</TotalUS>
+   </FacturaN07>
+   
+   <FacturaN08>
+      <Fecha>37179</Fecha>
+      <Codigodevendedor>3</Codigodevendedor>
+      <TotalUS>913,5</TotalUS>
+   </FacturaN08>
+
+   <FacturaN09>
+      <Fecha>37187</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>616,25</TotalUS>
+   </FacturaN09>
+   
+   <FacturaN10>
+      <Fecha>37193</Fecha>
+      <Codigodevendedor>5</Codigodevendedor>
+      <TotalUS>112456</TotalUS>
+   </FacturaN10>
+
+   <FacturaN11>
+      <Fecha>37197</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>1247</TotalUS>
+   </FacturaN11>
+
+   <FacturaN12>
+      <Fecha>37204</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>1885</TotalUS>
+   </FacturaN12>
+ 
+   <FacturaN13>
+      <Fecha>37209</Fecha>
+      <Codigodevendedor>4</Codigodevendedor>
+      <TotalUS>12175</TotalUS>
+   </FacturaN13>
+
+   <FacturaN14>
+     <Fecha>37218</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>1750,5</TotalUS>
+   </FacturaN14>
+
+   <FacturaN15>
+      <Fecha>37222</Fecha>
+      <Codigodevendedor>2</Codigodevendedor>
+      <TotalUS>1348,5</TotalUS>
+   </FacturaN15>
+
+   <FacturaN16>
+      <Fecha>37229</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>1428,25</TotalUS>
+   </FacturaN16>
+
+   <FacturaN17>
+      <Fecha>37238</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>623,5</TotalUS>
+   </FacturaN17>
+
+   <FacturaN18>
+      <Fecha>37242</Fecha>
+      <Codigodevendedor>6</Codigodevendedor>
+      <TotalUS>1595</TotalUS>
+   </FacturaN18>
+
+   <FacturaN19>
+      <Fecha>37245</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>2465</TotalUS>
+   </FacturaN19>
+
+   <FacturaN20>
+      <Fecha>37243</Fecha>
+      <Codigodevendedor>1</Codigodevendedor>
+      <TotalUS>2595</TotalUS>
+   </FacturaN20>
+
+
+</TabladeVentas>

@@ -1,0 +1,191 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="TabladeVentas">
+    <xs:annotation>
+      <xs:documentation>tabla de ventas sacada de la pagina: ftp://ftp.puce.edu.ec/Facultades/Administracion/Informatica%20Aplicada%20EM/BASES%20DE%20DATOS/TABLAS%20DE%20VENTAS.xls modificada a formato .txt y ampliada hasta la factura n20 y Valor en  US$ sustituido por Total</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FacturaN01">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN02">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN03">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN04">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN05">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN06">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN07">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN08">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN09">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN10">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:int" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN11">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN12">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN13">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN14">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN15">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN16">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN17">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:string" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN18">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN19">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FacturaN20">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="Fecha"/>
+              <xs:element type="xs:byte" name="Codigodevendedor"/>
+              <xs:element type="xs:short" name="TotalUS"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
